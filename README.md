@@ -1,16 +1,13 @@
 # mobxexample
 
-A new Flutter project.
+Flutter simple application to demonstrate MobX.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+This project demonstrates a simple use case of MobX state management.
 
-A few resources to get you started if this is your first Flutter project:
+A few resources to get you started with the mobx library:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- [Flutter MobX library](https://pub.dev/packages/mobx)
+- [Add annotation support for MobX to avoid boilerplate code](https://pub.dev/packages/mobx_codegen)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
